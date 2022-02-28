@@ -17,7 +17,7 @@ public class GroupTest1 {
         nameCall("Jason was here!");
         nameCall("Matthew was here!");
         nameCall("Roy was here!");
-        nameCall("Colton was here!);
+        nameCall("Colton was here!");
 
 
     }//end main
