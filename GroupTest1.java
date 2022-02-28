@@ -17,6 +17,7 @@ public class GroupTest1 {
         //test
         system.out.println("hello world");
         nameCall("Jason was here!");
+        nameCall("Chase was here!");
         nameCall("Matthew was here!");
         nameCall("Roy was here!");
         nameCall("Colton was here!");
