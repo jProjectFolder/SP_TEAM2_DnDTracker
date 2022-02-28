@@ -14,6 +14,8 @@ public class GroupTest1 {
 
     public static void main(String[] args){
         //insert the nameCall() method here with name
+        //test
+        system.out.println("hello world");
         nameCall("Jason was here!");
         nameCall("Roy was here!");
 
