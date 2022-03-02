@@ -19,7 +19,7 @@ INSTRUCTIONS TO TEAM MEMBERS FOR TEST:
 
 package SP_TEAM2_DnDTracker;
 
-public class jason_group_test_2 {
+public class chase_group_test_2 {
     
    //note, create main method quickly with psvm + tab
     public static void main(String[] args) {
