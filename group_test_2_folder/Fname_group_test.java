@@ -25,5 +25,28 @@ public class roy_group_test_2 {
     public static void name_print(String name){
         System.out.println(name);
     }//end name_print
-   
+    
+    
+    
+    /*-------------------------------------------------------------
+    Purpose:        Brief description of the method's purpose OUTSIDE METHOD
+    Inputs:         Describe what inputs its suppose to receive
+    Outputs:        Describe what method outputs
+    References:     Describe OTHER METHODS that this method calls or writes to (for calculations or for data)
+    */
+    public void method_1(){
+        System.out.println("I like the format for describing method 1!");
+    }// end method_1
+    
+    
+    public void method_2(){
+    /*
+    Purpose:        Brief description of the method's purpose OUTSIDE METHOD
+    Inputs:         Describe what inputs its suppose to receive
+    Outputs:        Describe what method outputs
+    References:     Describe OTHER METHODS that this method calls or writes to (for calculations or for data)
+    */
+        System.out.println("I like the format for describing method 2!");
+    }//end method_2
+    
 }//end group_test_2
