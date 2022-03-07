@@ -16,12 +16,13 @@ public class group_test_3_triangle_area {
     */
     private int side;
     private int side2;
+    private int height;
 
     //Initialized constructor BLUEPRINT (cookie cutter) for making an
     //object
     public group_test_3_triangle_area(int new_side, int new_height)
     {
-	height = new_height
+	height = new_height;
         side = new_side;
     }//end constructor
     
@@ -44,7 +45,7 @@ public class group_test_3_triangle_area {
     //Uninitialized constructor
     public group_test_3_triangle_area()
     {
-	height2 = height2
+	height2 = height2;
         side2 = side2;//put unitilized side2 in constructor
     }//end constructor
     
